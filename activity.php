@@ -1,4 +1,8 @@
 <?php
+include_once(__DIR__.'/views/header.html');
+include_once(__DIR__.'/views/navbar.html');
+include_once(__DIR__.' /views/table.php');
+
 
 $_host = "127.0.0.1";
 $_password = "";
